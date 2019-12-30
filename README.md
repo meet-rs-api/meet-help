@@ -9,8 +9,8 @@ Content in this repository containing help content surfaced on meet.com/help
 
 ### FAQ (Frequently asked questions)
 
-- [How to change microphone and camera on Firefox?](en-us\help-config-firefox.md)
-- [How to change speaker on Firefox/Safari on Mac?](en-us\help-config-speaker-mac.md)
-- [How to change speaker on Firefox/Safari on Windows?](en-us\help-config-speaker-win.md)
+- [How to change microphone and camera on Firefox?](en-us/help-config-firefox.md)
+- [How to change speaker on Firefox/Safari on Mac?](en-us/help-config-speaker-mac.md)
+- [How to change speaker on Firefox/Safari on Windows?](en-us/help-config-speaker-win.md)
 
 
