@@ -25,5 +25,6 @@
 
 ## Како да доделите нова приступна права за приступ новим уређајима?
 
-Након што сте понистили преNakon što ste poništili prethodna pristupna prava, potrebno je samo da ponovo učitate web stranicu i Firefox će vas ponovo pitati da odaberete uređaje kojima želite dodeliti pravo pristupa. Odaberite nove uređaje koje želite da koristite i odobrite pristup.
-To je sve što treba da uradite da bi ste koristili nove uređaje u vašem Meet-u.
+Након што сте поништили претходна приступна права, потребно је само да поново учитате страницу у претраживачу и Firefox ће вас поново питати да одаберете нове уређаје којима желите доделити право приступа.
+
+Од овог момента можете користи нову камеру и микрофон.
