@@ -7,4 +7,4 @@ Ovo je repositorij koji sadrži korisnička uputstva, često postavljana pitanja
 
 ### Često postavljana pitanja
 
-- [Како да промените микрофон и камеру у Firefox-у?](help-config-firefox.md)
+- [Kako da promenite mikrofon i kameru u Firefox-u?](help-config-firefox.md)
