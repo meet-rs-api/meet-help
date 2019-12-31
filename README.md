@@ -1,8 +1,8 @@
 
 # Meet | Frictionless interviews - Help
 
-- [English](en/README.md)
-- [Srpski](sr-latn/README.md)
-- [Српски](sr-cyrl/README.md)
+- [English](en/index.md)
+- [Srpski](sr-latn/index.md)
+- [Српски](sr-cyrl/index.md)
 
 
