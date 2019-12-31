@@ -1,1 +1,1 @@
-# How to change speaker in Firefox/Safari?
+# Kako da promenite izlazni audio uređaj ? [Firefox][Safari]

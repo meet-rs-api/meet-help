@@ -9,4 +9,4 @@
 
 ### Često postavljana pitanja
 
-- [Како да промените микрофон и камеру у Firefox-u?](help-config-firefox.md)
+- [Како да промените микрофон и камеру? [Firefox]](help-config-firefox.md)

@@ -1,4 +1,4 @@
-# How to change microphone and camera in Firefox?
+# How to change microphone and camera? [Firefox]
 
 When you have joined a Meet for the first time you were asked to grant permissions and you selected a specific microphone and camera.
 
@@ -15,7 +15,7 @@ This is a two-step procedure:
 - You need to revoke previously granted permissions
 - You need to grant permission for new devices you want to use
 
-## How to revoke media devices granted permission?
+## How to revoke media devices granted permission? 
 
 Revoking previously granted permission is a very simple procedure that will require you to click on two places...
 
