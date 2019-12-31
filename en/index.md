@@ -1,7 +1,9 @@
 
 # Meet | Frictionless interviews - Help
 
-This is repository containing help content, FAQ, best practices and other things enabling Meet users 
+This is repository containing help content, FAQ, best practices and other things enabling Meet users.
+
+The repository is located at https://github.com/meet-rs-api/meet-help and we are open for contributions of any type.
 
 ## Table of Contents
 
