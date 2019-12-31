@@ -2,7 +2,7 @@
 # Meet | Frictionless interviews - Help
 This is repository containing help content, FAQ, best practices and other things enabling Meet users 
 
-Content in this repository containing help content surfaced on meet.com/help
+
 
 ## Table of Contents
 
