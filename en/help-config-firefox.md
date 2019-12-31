@@ -1,4 +1,4 @@
-# How to change microphone and camera? [Firefox]
+# How to change microphone and camera? (Firefox)
 
 When you have joined a Meet for the first time you were asked to grant permissions and you selected a specific microphone and camera.
 

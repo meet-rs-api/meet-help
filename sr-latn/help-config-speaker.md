@@ -1,1 +1,1 @@
-# Kako da promenite izlazni audio uređaj ? [Firefox][Safari]
+# Kako da promenite izlazni audio uređaj ? (Firefox | Safari)

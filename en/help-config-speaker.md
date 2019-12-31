@@ -1,1 +1,1 @@
-# How to change call speaker/headphones? [Firefox][Safari]
+# How to change call speaker/headphones? (Firefox | Safari)

@@ -1,4 +1,4 @@
-# Kako da promenite mikrofon i kameru?  [Firefox]
+# Kako da promenite mikrofon i kameru?  (Firefox)
 
 Kada ste se prijavili prvi put na Meet, upitani ste da dozvolite pristup određenom mikrofonu i kameri.
 
