@@ -10,3 +10,4 @@ Repositorij se nalazi na https://github.com/meet-rs-api/meet-help i otvoren je z
 ### Često postavljana pitanja
 
 - [Kako da promenite mikrofon i kameru? [Firefox]](help-config-firefox.md)
+- [# Kako da promenite izlazni audio uređaj? (Firefox | Safari)](help-config-speaker.md)
